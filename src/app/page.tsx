@@ -22,6 +22,10 @@ export default function CardWithForm() {
 			time: 60,
 		},
 		{
+			q: 'vimは使えますか？',
+			time: 30,
+		},
+		{
 			q: '前職で1番大変だったことや失敗した経験はありますか？',
 			time: 60,
 		},
@@ -80,10 +84,6 @@ export default function CardWithForm() {
 		{
 			q: '退職理由を教えてください。',
 			time: 60,
-		},
-		{
-			q: '希望の年収額を教えてください。',
-			time: 30,
 		},
 		{
 			q: '学習中に意識していることを教えてください。',
