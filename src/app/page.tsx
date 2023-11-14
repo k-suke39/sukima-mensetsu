@@ -22,7 +22,7 @@ export default function CardWithForm() {
 			time: 60,
 		},
 		{
-			q: 'vimは使えますか？',
+			q: 'Vimは使えますか？',
 			time: 30,
 		},
 		{
