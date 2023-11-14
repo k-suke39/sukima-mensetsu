@@ -163,7 +163,7 @@ export default function CardWithForm() {
 	};
 
 	return (
-		<div className="flex justify-center items-center h-screen">
+		<div className="flex justify-center items-center h-screen bg-gray-300">
 			<div>
 				<Progress value={progress} className="mb-3" />
 				<Card className="w-[350px]">
